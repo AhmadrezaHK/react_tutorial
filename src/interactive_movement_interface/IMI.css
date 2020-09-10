@@ -1,0 +1,7 @@
+.react-icon{
+    position: absolute;
+    background-repeat : no-repeat !important;
+    height : 50px;
+    width : 50px;
+    background-size: cover !important;
+}

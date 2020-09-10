@@ -1,0 +1,3 @@
+.loading{
+    animation: changeColor infinite 5s linear;
+}

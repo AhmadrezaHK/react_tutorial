@@ -1,0 +1,42 @@
+.square{
+    border-radius: 5px;
+    animation: changeColor infinite 1s linear;
+    height: 100px;
+    margin: 5px;
+}
+
+@keyframes changeColor{
+    0%{
+        background-color: #F04155;
+    }
+    10%{
+        background-color: #FF823A
+    }
+    20%{
+        background-color: #F2F26F
+    }
+    30%{
+        background-color: #FFF7BD
+    }
+    40%{
+        background-color: #95CFB7
+    }
+    50%{
+        background-color: #556270
+    }
+    60%{
+        background-color: #4ECDC4
+    }
+    70%{
+        background-color: #C7F464
+    }
+    80%{
+        background-color: #FF6B6B
+    }
+    90%{
+        background-color: #C44D58
+    }
+    100%{
+        background-color: #C7F464
+    }
+}

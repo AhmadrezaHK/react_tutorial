@@ -1,0 +1,36 @@
+body{
+  background-color: #282c34;
+  color: #61dafb;
+}
+
+.search {
+  text-align: center;
+}
+
+.search_data_container{
+  border: solid 2px #61dafb;
+  text-align: left;
+  max-width: 300px;
+  margin: 30px auto;
+  padding: 5px 10px;
+}
+
+.search_input{
+  width: 300px;
+  background-color: #282c34;
+  color: #61dafb;
+  padding: 5px 10px;
+}
+
+.search_element{
+  padding: 0 2px;
+}
+
+.search_element:hover{
+  background-color: #61dafb;
+  color: #282c34;
+}
+
+.not_found{
+  display: none;
+}
